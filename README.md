@@ -1,7 +1,7 @@
 # nFactorial-Ai-Cup-2024
 Fork this repository and build nFactorial Ai Cup 2024 projects 
 
-## < Your Name >
+## < Zhannur Kali >
 
 ## < Your App's Name >
 
